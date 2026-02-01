@@ -13,11 +13,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🔥   My Stats : <br>I am a Software Engineering & Networking Student at the Syrian Virtual University (SVU). I specialize in solving technical challenges and developing software solutions with a focus on efficiency and performance.<br><br>- 🔭 I’m working as:Freelance Technical Assistant and IT Support Specialist.<br>- 🌱 I’m currently learning: Advanced Software Engineering, ASP.NET, and modern web technologies.<br>- 💻 Key Skills: C#, SQL Server, Database Management (DBMS), and Network Configuration (LAN).<br>- ⚡ In my free time I: Build coding projects, explore AI technology, and provide technical troubleshooting for hardware and software.</h3>
 
 ###
 
-<p align="left">I'm Bassam  from SYRIA<br><br>- 🔭 I’m working as Freelance Technical Assistant & Software Developer trainee.<br>- 📚 I'm currently learning Advanced Full-Stack Development and modern Software Engineering practices at SVU.<br>- ⚡ In my free time I Explore AI technology, solve technical hardware puzzles, and build creative coding projects.</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -42,9 +42,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats : <br>I am a Software Engineering & Networking Student at the Syrian Virtual University (SVU). I specialize in solving technical challenges and developing software solutions with a focus on efficiency and performance.<br><br>- 🔭 I’m working as:Freelance Technical Assistant and IT Support Specialist.<br>- 🌱 I’m currently learning: Advanced Software Engineering, ASP.NET, and modern web technologies.<br>- 💻 Key Skills: C#, SQL Server, Database Management (DBMS), and Network Configuration (LAN).<br>- ⚡ In my free time I: Build coding projects, explore AI technology, and provide technical troubleshooting for hardware and software.<br><br> 🛠️ Languages and Tools<br>- Languages: C#, SQL, HTML, CSS.<br>- Tools: Microsoft SQL Server, Visual Studio, Git.<br>- Specialties: PC Maintenance, Technical Support, and Networking.</h3>
 
 ###
