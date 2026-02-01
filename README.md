@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="www.linkedin.com/in/bassam-jaro" target="_blank">
+  <a href="https://www.linkedin.com/in/bassam-jaro-19167a376" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/xa_2_k?igsh=eXYxODhzb3V1czNw" target="_blank">
